@@ -26,6 +26,23 @@ It is common for the `Downloads` directory to get cluttered over time with docum
 Saída de código
 README.md generated successfully.
 
+
+
+## 📖 Usage Instructions / Instruções de Uso
+
+### 1. Requirements (Pré-requisitos)
+Make sure you have **Python 3.x** installed on your machine.
+*(Certifique-se de ter o Python 3.x instalado na sua máquina.)*
+
+---
+
+### 2. Setting Up (Configuração)
+By default, the script target is set to your operating system's default `Downloads` folder:
+*(Por padrão, o script está configurado para a pasta de `Downloads` do seu sistema:)*
+
+```python
+DOWNLOADS_PATH = os.path.expanduser("~/Downloads")
+
 ```text
 Folder Organizer/
 ├── Organizer.py          # Main automation script
