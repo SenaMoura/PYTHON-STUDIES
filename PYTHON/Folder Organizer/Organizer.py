@@ -1,7 +1,10 @@
 import os
 import shutil
 
-DOWNLOADS_PATH = os.path.join(os.path.expanduser("~"), "Downloads")
+
+# 1 - Caminho da pasta que será organizada (Downloads)
+#(Substitua o "seu_usuario" pelo nome do usuário do seu sistema)
+DOWNLOADS_PATH = os.path.join(os.path.expanduser("~/Downloads"))
 
 DIRECTORIES = {
     "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"],
