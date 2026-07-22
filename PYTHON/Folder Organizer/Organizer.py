@@ -30,7 +30,7 @@ def organize_folder():
             if extension in extensions:
                 target_folder = os.path.join(DOWNLOADS_PATH, folder_name)
 
-                if not os.path.exists(targer_folder):
+                if not os.path.exists(target_folder):
                     os.makedirs(target_folder)
 
                 shutil.move(file_path, os.path.join(target_folder, filename))
