@@ -30,5 +30,5 @@ README.md generated successfully.
 
 ```text
 Folder Organizer/
-├── script.py          # Main automation script
+├── Organizer.py          # Main automation script
 └── README.md          # Project documentation
