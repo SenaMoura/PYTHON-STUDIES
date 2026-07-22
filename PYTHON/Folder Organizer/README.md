@@ -1,5 +1,3 @@
-import os
-from weasyprint import HTML
 
 # Create a Markdown file content for the README
 readme_content = 📦 Downloads Folder Organizer
