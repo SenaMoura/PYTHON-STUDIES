@@ -2,7 +2,7 @@ import os
 from weasyprint import HTML
 
 # Create a Markdown file content for the README
-readme_content = """# 📦 Downloads Folder Organizer
+readme_content = 📦 Downloads Folder Organizer
 
 An automated Python script designed to organize messy download folders into neatly categorized subdirectories based on file extensions.
 
