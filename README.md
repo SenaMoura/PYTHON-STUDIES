@@ -1,7 +1,7 @@
 
 # 🐍 Python Studies & Projects
 
-This repository contains scripts, exercises, and small applications developed to master Python fundamentals and real-world implementation.
+This repository contains scripts, exercises, and small applications developed that I'm using to master Python fundamentals and real-world implementation.
 
 ---
 
