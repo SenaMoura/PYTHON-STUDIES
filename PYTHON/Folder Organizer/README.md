@@ -43,7 +43,6 @@ By default, the script target is set to your operating system's default `Downloa
 ```python
 DOWNLOADS_PATH = os.path.expanduser("~/Downloads")
 
-```text
 Folder Organizer/
 ├── Organizer.py          # Main automation script
 └── README.md          # Project documentation
